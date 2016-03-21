@@ -1,0 +1,11 @@
+{ "options": [
+    {
+        "host": "http://www.giantbomb.com",
+        "key": ""
+    },
+    {
+        "host": "http://thegamesdb.net",
+        "key": ""
+    }
+    ]
+}
